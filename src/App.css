@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* Remove Vite/React demo styles */
+.card, .logo, .read-the-docs {
+  display: none !important;
+}
+
+/* Add any component-specific overrides here if needed */
