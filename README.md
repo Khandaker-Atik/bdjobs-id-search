@@ -22,4 +22,4 @@ This is a Vite + React + TypeScript web app for animated BDJobs custom search. E
 3. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## Credits
-Developed by khandaker atik, email: Khandakeratik43@gmail
+Developed by khandaker atik, email: Khandakeratik43@gmail.com
